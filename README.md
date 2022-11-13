@@ -1,5 +1,5 @@
 # General-number-classifier
-When learning deep learning, we need a dataset, training code, and a deep learning model. In this process, we have used MNIST(Modified National Institute of Standards and Technologh database), the most accessible dataset, and a model that matches it. However, the goal of this term project is to train a neural network with a great genralization performance. So to do this, I had to come up with a new dataset, training code, and model. Effort for this are as follows.
+When learning deep learning, we need a dataset, training code, and a deep learning model. In this process, we have used MNIST(Modified National Institute of Standards and Technology database), the most accessible dataset, and a model that matches it. However, the goal of this term project is to train a neural network with a great genralization performance. So to do this, I had to come up with a new dataset, training code, and model. Effort for this are as follows.
 
 ## Dataset
 At first, I thought I would need some kind of dataset other than MNIST to achieve what I wanted for this project. So I found a dataset called SVHN(Street View House Numbers), and got images and mat file. Through this, I can get MNIST and SVHN. Next, image augmentation was attempted to obtain general results for these data. The attemped augmentation technique is as follows.
